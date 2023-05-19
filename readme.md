@@ -12,15 +12,15 @@ Jag trycker sedan "enter" för att välja "blank template".
 
 Jag skriver sedan in "cd todoList" för att se att vi är inne i rätt directory. 
 
-Därefter skriver jag in "expo start". 
-
 Har man inte React Native nedladdat, så behöver man också följa instruktionerna i terminalen för att installera RN.
+
+Därefter skriver jag in "expo start". 
 
 Jag får då en scankod i terminalen. Scankoden är precis det jag pratat om i projektarbetet. Expo gör det enklare genom att man scannar en QR-kod istället för att följa en rad något mer invecklade steg för React Native. 
 
 Ladda ner expo appen där appar finns och scanna QR koden. Appen kommer då upp i mobilen.
 
-Eftersom att jag inte har ett loggin på expo, så väljer jag att installera react Native och sedan välja kommandot "w" för webb. Jag får då upp projektet på webben. 
+Eftersom att jag inte har ett loggin på expo, så väljer jag att installera react Native och sedan välja kommandot "w" för webb. Jag får då upp projektet på webben lokalt. 
 
 
 ----------------------------------------------
